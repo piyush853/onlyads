@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/onlyads.git/static/css/main.870e077b.css",
+    "main.js": "/onlyads.git/static/js/main.10120725.js",
+    "static/js/787.34bd65b0.chunk.js": "/onlyads.git/static/js/787.34bd65b0.chunk.js",
+    "static/media/logo.svg": "/onlyads.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/onlyads.git/index.html",
+    "main.870e077b.css.map": "/onlyads.git/static/css/main.870e077b.css.map",
+    "main.10120725.js.map": "/onlyads.git/static/js/main.10120725.js.map",
+    "787.34bd65b0.chunk.js.map": "/onlyads.git/static/js/787.34bd65b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.870e077b.css",
+    "static/js/main.10120725.js"
+  ]
+}
